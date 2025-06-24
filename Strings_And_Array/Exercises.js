@@ -51,7 +51,7 @@ Print, [9, 0, -2]
 
 /***************************************************************************************************/
 
-/* Write a JavaScript program to test whether the character at the given (character) index is lower case. */
+/* 4) Write a JavaScript program to test whether the character at the given (character) index is lower case. */
 
 // {
 //   let str = "Siddharth Chudasama";
@@ -61,5 +61,34 @@ Print, [9, 0, -2]
 //     console.log(`The caharacter '${str[idx]}' is in the Lower case`);
 //   } else {
 //     console.log(`The caharacter '${str[idx]}' is in the Upper case`);
+//   }
+// }
+
+/***************************************************************************************************/
+
+/* 5) Write a JavaScript program to strip leading and trailing spaces from a string. */
+
+// {
+//   let str = "    Siddharth Chudasama   ";
+//   let newStr = str.trim();
+
+//   console.log(`String  with spaces : ${str}`);
+//   console.log(`Trimmed string : ${newStr}`);
+  
+  
+// }
+
+/***************************************************************************************************/
+
+/* 6) Write a JavaScript program to check if an element exists in an array or not. */
+
+// {
+//   let elements = ["Siddharth", "Hardik", 65, 78, -45, -6];
+//   let item = 65;
+
+//   if (elements.indexOf(item) != -1) {
+//     console.log(`Element ${item} exist in the array`);
+//   } else {
+//     console.log(`Element ${item} doesn't exist in the array`);
 //   }
 // }
