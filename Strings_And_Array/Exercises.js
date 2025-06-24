@@ -48,3 +48,18 @@ Print, [9, 0, -2]
 
 //     }
 // }
+
+/***************************************************************************************************/
+
+/* Write a JavaScript program to test whether the character at the given (character) index is lower case. */
+
+// {
+//   let str = "Siddharth Chudasama";
+//   let idx = prompt("Enter the index number fo the character");
+
+//   if (str[idx] == str[idx].toLowerCase()) {
+//     console.log(`The caharacter '${str[idx]}' is in the Lower case`);
+//   } else {
+//     console.log(`The caharacter '${str[idx]}' is in the Upper case`);
+//   }
+// }
